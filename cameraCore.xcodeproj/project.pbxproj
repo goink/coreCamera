@@ -637,7 +637,7 @@
 				DEVELOPMENT_TEAM = F2242D823E;
 				INFOPLIST_FILE = cameraCore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = XiaoYi.cameraCore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.neo.coreCamera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -650,7 +650,7 @@
 				DEVELOPMENT_TEAM = F2242D823E;
 				INFOPLIST_FILE = cameraCore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = XiaoYi.cameraCore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.neo.coreCamera;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
