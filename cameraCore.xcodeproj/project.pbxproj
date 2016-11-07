@@ -261,6 +261,7 @@
 				TargetAttributes = {
 					B564BBBD1D62DCC70017772B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = F2242D823E;
 					};
 					B564BBD61D62DCC70017772B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -521,6 +522,7 @@
 			baseConfigurationReference = F58EB0CE671D483C3E36DD27 /* Pods-cameraCore.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = F2242D823E;
 				INFOPLIST_FILE = cameraCore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XiaoYi.cameraCore;
@@ -533,6 +535,7 @@
 			baseConfigurationReference = 8E3EC6FD0C537843E37FED9A /* Pods-cameraCore.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = F2242D823E;
 				INFOPLIST_FILE = cameraCore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XiaoYi.cameraCore;
